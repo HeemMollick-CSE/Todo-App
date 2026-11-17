@@ -25,7 +25,7 @@ todo-app/
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/todo-app.git
+   git clone https://github.com/HeemMollick-CSE/todo-app.git
    ```
 2. Open the `todo-app` folder.
 3. Double-click `index.html` to open it in your browser.
@@ -35,7 +35,7 @@ todo-app/
 If you've enabled GitHub Pages, your app will be available at:
 
 ```
-https://YOUR-USERNAME.github.io/todo-app/
+https://HeemMollick-CSE.github.io/todo-app/
 ```
 
 ## Built With
